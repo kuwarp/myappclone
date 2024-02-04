@@ -1,0 +1,7 @@
+export {default as Navbar} from "./Nav"
+export {default as Hero} from "./Hero"
+export {default as CTA} from "./CTA"
+export {default as Download} from "./Download"
+export {default as Kids} from "./Kids"
+export {default as Horizon} from "./Horizon"
+export {default as Footer} from "./Footer"
